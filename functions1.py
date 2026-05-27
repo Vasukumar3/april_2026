@@ -150,3 +150,6 @@
 
 
 
+def sample():
+    return 1
+obj = sample()
